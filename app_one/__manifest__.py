@@ -26,8 +26,3 @@
     'application': True,
     'license':'LGPL-3',
 }
-
-
-#Python Inheritance.
-#Model Inheritance.
-#View Inheritance.
