@@ -1,6 +1,6 @@
 {
     'name': "App One",
-    'author': "Ahmed Hamdy",
+    'author': "Mahmoud Ehab",
     'category': '',
     'version': '18.0.0.1.0',
     'depends': ['base', 'sale', 'account', 'mail', 'contacts',
